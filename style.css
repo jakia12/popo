@@ -56,12 +56,12 @@ section {
 .button {
   background-color: #fff;
   color: black;
-  padding: 0.5rem 1rem;
+  padding: 15px 28px;
   border-radius: 5px;
-  border: 0.5px solid black;
+  border: 1px solid black;
   margin: 10px;
   text-decoration: none;
-  height: 45px;
+  /* height: 45px; */
   text-align: center;
 }
 
